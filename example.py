@@ -1,3 +1,6 @@
+#0
+print("Hey, it's me, another programist making changes to your project remotely.")
+
 # 1
 name_list = ["John", "Micheal", "Terry", "Eric", "Graham"]
 name_dict = {name: len(name) for name in name_list}
