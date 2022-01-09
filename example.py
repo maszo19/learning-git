@@ -1,5 +1,6 @@
 #0
 print("Hey, it's me, another programist making changes to your project remotely.")
+print("Don't forget to pull commits, to avoid working on the old version of your project.")
 
 # 1
 name_list = ["John", "Micheal", "Terry", "Eric", "Graham"]
